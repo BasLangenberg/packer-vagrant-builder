@@ -1,3 +1,5 @@
+Based on [Edwin Biemond's](https://github.com/biemond/packer-vagrant-builder) repo in order to not reinvent the wheel.
+
 [Packer](http://packer.io) Vagrant for Solaris or Linux boxes with Puppet pre-installed
 
 make sure you create folder called build in this repos
