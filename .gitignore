@@ -6,3 +6,5 @@ build/*
 *.vmdk
 
 *.ovf
+iso/
+!iso/.gitkeep
